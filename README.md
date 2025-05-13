@@ -46,7 +46,7 @@ Use this command to see the ip of the container.<br>
 
 The answer he will give you will be something like this:<br>
 ![HELP](https://imgur.com/iuuwU6K.png)<br>
-8.The result, would be 172.18.0.2<br>
+The result, would be 172.18.0.2<br>
 
 Example: 
 ```
