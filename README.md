@@ -60,7 +60,7 @@ Example:
     "traceLog": 0
 }
 ```
-
+The configuration of the minimum users and other things, have to be done from the configure addons of the server.
 
 ## Current Developers
 
