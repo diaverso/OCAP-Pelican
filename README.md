@@ -10,7 +10,7 @@
 
 **[OCAP Development and Support on Discord](https://discord.gg/r98bDxgZbV)**
 
-** Link Original: (https://github.com/OCAP2/OCAP)**
+**Link Original: (https://github.com/OCAP2/OCAP)**
 
 ## What is it?
 
