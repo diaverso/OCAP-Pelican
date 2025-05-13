@@ -45,10 +45,11 @@ Use this command to see the ip of the container.
 -     docker inspect -f '{{.Name}}: {{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' ocap-web
 
 The answer he will give you will be something like this:
-https://imgur.com/iuuwU6K
-The result, would be 172.18.0.2
+(https://imgur.com/iuuwU6K)
+*The result, would be 172.18.0.2
 
 Example: 
+```
 {
     "httpRequestTimeout": 120,
     "logAndTmpPrefix": "ocap-",
@@ -58,7 +59,7 @@ Example:
     "newUrlRequestSecret": "secret-generate",
     "traceLog": 0
 }
-
+```
 
 
 ## Current Developers
